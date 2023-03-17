@@ -1,8 +1,8 @@
 # Hello and Bell
 Hello Apple Pascal Program
 
-<img src="resources/hello-pascal-01.png" alt="Hello UCSD Pascal"/>
+<img src="resources/hello-pascal-01.png" alt="Hello Apple Pascal"/>
 
-Bell UCSD Pascal Program
+Bell Apple Pascal Program
 
-<img src="resources/bell-pascal-01.png" alt="Hello UCSD Pascal"/>
+<img src="resources/bell-pascal-01.png" alt="Hello Apple Pascal"/>
