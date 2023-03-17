@@ -1,7 +1,7 @@
 # Hello and Bell
 Hello Apple Pascal Program
 
-<img src="resources/hello-pascal-01.png" alt="Hello Apple Pascal"/>
+<img src="resources/hello-pascal-02.png" alt="Hello Apple Pascal"/>
 
 Bell Apple Pascal Program
 
